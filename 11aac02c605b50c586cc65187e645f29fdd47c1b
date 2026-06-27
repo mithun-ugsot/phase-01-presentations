@@ -1,0 +1,12 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.3",
+  "base_commit_sha": "11aac02c605b50c586cc65187e645f29fdd47c1b",
+  "prompts": {},
+  "humans": {
+    "h_6064492a2e059b": {
+      "author": "misriniv <misriniv@cisco.com>"
+    }
+  }
+}
